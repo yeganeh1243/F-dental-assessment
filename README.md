@@ -145,6 +145,10 @@ php artisan serve
 
 The suite in `tests/Feature/WishlistTest.php` covers:
 
+
+The suite in `tests/Feature/WishlistTest.php` covers:
+
+- **Public Endpoints:** Verifies Product listing, Registration, and Login flows.
 - **Authentication:** Only authenticated users can access wishlist endpoints.
 - **CRUD Operations:** Add, view, and remove wishlist items.
 - **Validation:** Prevents adding non-existent products.
