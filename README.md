@@ -35,7 +35,7 @@ Architecture prioritizes maintainability and reliability: business logic is isol
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/yeganeh1243/frontier-dental-assessment.git
+git clone https://github.com/yeganeh1243/F-dental-assessment.git
 cd wishlist-api
 composer install
 ```
