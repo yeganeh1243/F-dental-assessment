@@ -36,7 +36,7 @@ Architecture prioritizes maintainability and reliability: business logic is isol
 
 ```bash
 git clone https://github.com/yeganeh1243/F-dental-assessment.git
-cd wishlist-api
+cd F-dental-assessment
 composer install
 ```
 
